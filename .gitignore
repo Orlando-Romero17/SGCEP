@@ -1,0 +1,20 @@
+# Credenciales
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Bases de datos locales y respaldos
+*.db
+*.sqlite3
+respaldo_*.sql
+
+# Editor
+.vscode/
+.idea/
+
+# Reportes generados durante las pruebas
+*.pdf
